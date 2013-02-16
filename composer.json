@@ -1,0 +1,14 @@
+{
+    "name": "scrutinizer/behat",
+
+    "require-dev": {
+        "behat/behat": "2.4.*@stable",
+        "behat/mink": "1.4@stable",
+        "behat/mink-extension": "*",
+        "behat/mink-goutte-driver": "*",
+        "behat/symfony2-extension": "*",
+
+        "doctrine/orm": "*",
+        "doctrine/data-fixtures": "*@dev"
+    }
+}
