@@ -1,5 +1,6 @@
 {
     "name": "scrutinizer/behat",
+    "description": "Metadata package which contains a standalone Behat installation.",
 
     "require-dev": {
         "behat/behat": "2.4.*@stable",
@@ -8,9 +9,6 @@
         "behat/mink-selenium2-driver": "*",
         "behat/mink-goutte-driver": "*",
         "behat/symfony2-extension": "*",
-        "behat/common-contexts": "*",
-
-        "doctrine/orm": "*",
-        "doctrine/data-fixtures": "*@dev"
+        "behat/common-contexts": "*"
     }
 }
