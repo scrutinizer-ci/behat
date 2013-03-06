@@ -98,7 +98,7 @@
                     "Behat\\CommonContexts": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -174,7 +174,7 @@
                     "Behat\\Gherkin": "src/"
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -201,12 +201,12 @@
             "version": "v1.4.0",
             "source": {
                 "type": "git",
-                "url": "git://github.com/Behat/Mink.git",
+                "url": "https://github.com/Behat/Mink.git",
                 "reference": "v1.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/Behat/Mink/zipball/v1.4.0",
+                "url": "https://api.github.com/repos/Behat/Mink/zipball/v1.4.0",
                 "reference": "v1.4.0",
                 "shasum": ""
             },
@@ -253,7 +253,7 @@
                 "testing",
                 "web"
             ],
-            "time": "2012-05-29 15:50:10"
+            "time": "2012-05-29 22:50:10"
         },
         {
             "name": "behat/mink-browserkit-driver",
@@ -289,7 +289,7 @@
                     "Behat\\Mink\\Driver": "src/"
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -585,7 +585,7 @@
                 {
                     "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
-                    "homepage": "https://github.com/schmittjoh",
+                    "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
                 }
             ],
@@ -818,7 +818,7 @@
                     "Psr\\Log\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -868,7 +868,7 @@
                     "Symfony\\Component\\BrowserKit": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -915,7 +915,7 @@
                     "Symfony\\Component\\Config\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -962,7 +962,7 @@
                     "Symfony\\Component\\Console\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1004,7 +1004,7 @@
                     "Symfony\\Component\\CssSelector": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1059,7 +1059,7 @@
                     "Symfony\\Component\\DependencyInjection\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1107,7 +1107,7 @@
                     "Symfony\\Component\\DomCrawler": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1161,7 +1161,7 @@
                     "Symfony\\Component\\EventDispatcher\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1208,7 +1208,7 @@
                     "Symfony\\Component\\Filesystem\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1250,7 +1250,7 @@
                     "Symfony\\Component\\Finder": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1317,7 +1317,7 @@
                     "Symfony\\Bundle\\FrameworkBundle\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1367,7 +1367,7 @@
                     "Symfony/Component/HttpFoundation/Resources/stubs"
                 ]
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1436,7 +1436,7 @@
                     "Symfony\\Component\\HttpKernel\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1478,7 +1478,7 @@
                     "Symfony\\Component\\Process": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1536,7 +1536,7 @@
                     "Symfony\\Component\\Routing\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1583,7 +1583,7 @@
                     "Symfony\\Component\\Stopwatch\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1630,7 +1630,7 @@
                     "Symfony\\Component\\Templating\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1685,7 +1685,7 @@
                     "Symfony\\Component\\Translation\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1732,7 +1732,7 @@
                     "Symfony\\Component\\Yaml\\": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1758,5 +1758,11 @@
     "stability-flags": {
         "behat/behat": 0,
         "behat/mink": 0
-    }
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
 }
