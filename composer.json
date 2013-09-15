@@ -9,6 +9,9 @@
         "behat/mink-selenium2-driver": "*",
         "behat/mink-goutte-driver": "*",
         "behat/symfony2-extension": "*",
-        "behat/common-contexts": "*"
+        "behat/common-contexts": "*",
+
+        "guzzle/guzzle": "~3.0",
+        "guzzle/http": "~3.0"
     }
 }
