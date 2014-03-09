@@ -12,6 +12,8 @@
         "behat/common-contexts": "*",
 
         "guzzle/guzzle": "~3.0",
-        "guzzle/http": "~3.0"
+        "guzzle/http": "~3.0",
+
+        "phpunit/phpunit": "~3.7.0"
     }
 }
