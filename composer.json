@@ -13,6 +13,8 @@
         "fabpot/goutte": "^1.0",
 
         "guzzle/guzzle": "^3.0",
-        "guzzle/http": "^3.0"
+        "guzzle/http": "^3.0",
+
+        "phpunit/phpunit": "^3.7.0"
     }
 }
